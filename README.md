@@ -19,7 +19,7 @@ Access to the dataset (provided via link)
 
 **Links:**
 Access the dataset for this project using the following link: [Data Set](https://docs.google.com/spreadsheets/d/1MlDxb145YnjEi_H6W3jLkVLaFVg0TJV9/edit?usp=drive_link&ouid=101082540720314963908&rtpof=true&sd=true)
-Prediction Result: Click Here(https://docs.google.com/spreadsheets/d/1g4c3-e5zjLpiYk6Q6y8W78zwIs1SpuPj/edit?usp=drive_link&ouid=101082540720314963908&rtpof=true&sd=true)
+Prediction Result: [Click Here](https://docs.google.com/spreadsheets/d/1g4c3-e5zjLpiYk6Q6y8W78zwIs1SpuPj/edit?usp=drive_link&ouid=101082540720314963908&rtpof=true&sd=true)
 
 **Model Building:**
 The predictive model is built using logistic regression, a popular algorithm for binary classification tasks. We train the model on a portion of the dataset and evaluate its performance using various metrics.
